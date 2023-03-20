@@ -16,7 +16,7 @@
     'use strict';
 
     //HIER ABSCHIEDSNACHRICHT BEARBEITEN//
-    var CUSTOM_GOODBYE_MESSAGE = "@all Habe einen Realeinsatz! Rufe meinen Rettungsdienst zurück! (Gesendet von Panic Button)";
+    var CUSTOM_GOODBYE_MESSAGE = "@all Bin Unterwegs! Rufe meinen Rettungsdienst zurück! Bis dann!👋🏻 (Gesendet von Panic Button)";
     //////////////////////////////////////////////////////
 
     function init()
